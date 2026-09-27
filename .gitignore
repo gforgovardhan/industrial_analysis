@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+
+# Large generated data (uncomment if you prefer not to push 32MB CSV to GitHub)
+# iot_telemetry_data.csv
